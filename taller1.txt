@@ -1,2 +1,7 @@
 talleres
+<<<<<<< HEAD
+este es el taller 1
+modificado
+=======
 aqui esta el archivo del usuario 2
+>>>>>>> 303a54bb47110d376408f5341d319bce3d01e11a
